@@ -1,0 +1,1 @@
+//TODO: parei o video em 17:40   url: https://youtu.be/NxHY14rMPvc
