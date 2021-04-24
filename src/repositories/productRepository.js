@@ -33,9 +33,9 @@ class ProductRepository {
 
 module.exports = ProductRepository
 
-const Product = new ProductRepository({
-    file: './../../database/data.json'
-})
+// const Product = new ProductRepository({
+//     file: './../../database/data.json'
+// })
 // Product.create({
 //     id: 4,
 //     name: "Candy",
